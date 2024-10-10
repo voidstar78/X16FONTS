@@ -1,0 +1,14 @@
+{
+    "manifest_version": "1.0.0",
+    "name": "X16FONTS",
+    "author": "voidstar",
+    "app_version": "0.0.0",
+    "license": "GPL v3",
+    "start_prg": "X16FONTS.PRG",
+    "resources": [
+				"X16FONTS.PRG",
+				"FONTALL.DAT",
+				"X16FONTS.BASL"
+    ]
+}
+
